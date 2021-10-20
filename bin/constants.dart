@@ -20,7 +20,7 @@ const BLACK_LIST = [
   35
 ];
 
-const WHITE_LIST = [
+const RED_LIST = [
   1,
   3,
   5,
